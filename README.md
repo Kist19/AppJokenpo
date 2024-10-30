@@ -1,15 +1,16 @@
-# **App Agenda**
+# **App Jokenpo**
 
-> Aplicativo que cadastra e lista seus usuários.
+> Aplicativo que é o jogo Jokenpo.
 
 ## 📱 Descrição
 
-O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
+O **App Jokenpo** é o jogo pedra, papel e tesoura.
 
 ## 🔧 Funcionalidades
 
 - [x] Entrada de dados (Nome, CPF e Telefone)
-- [x] Pesquisa de usuários
+- [x] Botões de pedra papel ou tesoura
+- [x] botão de reiniciar placar
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -17,14 +18,14 @@ O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView**, **EditText**, **ListView** para entrada e exibição de dados
-- [x] **Menu** para cadastrar e pesquisar usuário
+- [x] **TextView** e **EditText** para entrada e exibição de dados
+- [x] **Button** para selecionar item do jogo e reiniciar o placar
 
 ## 🛠️ Como Rodar o Projeto
 
 Siga os passos abaixo para rodar o projeto localmente:
 
-1. Clone este repositório:
+ 1. Clone este repositório:
 
     ```bash
     git clone https://github.com/seuusuario/imc-calculator-app.git
@@ -73,9 +74,9 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
  ## 🖥️ Telas do Aplicativo
 
-1. **Tela Principal**
+## 1. Tela Principal
    
-   Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
+   Botões com as opções de pedra papel ou tesoura, e botão de reiniciar.
    
 ![Texto Alternativo](https://github.com/Kist19/AppJokenpo/blob/main/telaprincipal_appjokenpo.jpg?raw=true)
 
