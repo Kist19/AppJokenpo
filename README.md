@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 │   ├── src
 │   │   ├── main
 │   │   │  ├── java/br/com/senacrs/usuario/appjokenpo
-│   │   │  │  ├── MainActivity.java           # Atividade principal com AppJokenpo
+│   │   │  │  ├── MainActivity.java          # Atividade principal com AppJokenpo
 │   │   │  ├── res
 │   │   │  │   ├── layout
 │   │   │  │   │   ├── activity_main.xml     #Layout da tela principal
